@@ -1,4 +1,4 @@
-module github.com/Alena557miles/gowebserver
+module github.com/Alena557miles/webservergo
 
 go 1.19
 
